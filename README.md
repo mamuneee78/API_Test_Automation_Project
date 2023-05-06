@@ -90,6 +90,8 @@ npm install -g newman-reporter-htmlextra
 	1. > Only Message
 
 ## Newman Report Summary:
-![Newman Report Summary](https://user-images.githubusercontent.com/70250199/232209683-ddb8e3c5-4f23-4355-8919-61cd6ddca91a.png)
+![Newman Report Summary](https://github.com/mamuneee78/API_Test_Automation_Project/blob/main/Newman%20HTML%20report%20dashboard.png)
 
-![Newman Report Summary](https://user-images.githubusercontent.com/70250199/232209794-f84c539b-e3cf-4e80-ab0e-9d6d59b1a339.png)
+![Newman Report Summary](https://github.com/mamuneee78/API_Test_Automation_Project/blob/main/API%20Requests.png)
+![Newman Report Summary](https://github.com/mamuneee78/API_Test_Automation_Project/blob/main/Request%20details.png)
+![Newman Report Summary](https://github.com/mamuneee78/API_Test_Automation_Project/blob/main/Failure%20reason.png)

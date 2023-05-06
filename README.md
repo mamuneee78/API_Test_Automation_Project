@@ -102,4 +102,4 @@ npm install -g newman-reporter-htmlextra
 ### Failure Reason
 ![Newman Report Summary](https://github.com/mamuneee78/API_Test_Automation_Project/blob/main/Failure%20reason.png)
 
-                                               # Thank You
+# Thank You
